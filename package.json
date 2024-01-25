@@ -1,0 +1,10 @@
+{
+    "name": "yma-keyboard",
+    "version": "1.0.0",
+    "description": "addKeybordEvent函数，简化给 HTMLElement 添加 keybord 事件",
+    "main": "./src/index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "yma",
+    "license": "ISC"
+}
